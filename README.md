@@ -1,2 +1,2 @@
 # Insighter
-Web scraping to gain company insights
+Scrapping review data from https://www.airlinequality.com/

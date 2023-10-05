@@ -21,3 +21,5 @@ Uncozy
 Dark
 Cold
 Haunting
+ambience
+decore

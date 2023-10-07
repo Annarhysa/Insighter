@@ -18,3 +18,5 @@ Run-down
 Undesirable
 Unpopular
 Depressing
+location
+place

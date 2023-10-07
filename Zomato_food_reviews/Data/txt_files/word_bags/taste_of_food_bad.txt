@@ -20,3 +20,5 @@ Awful
 Horrible
 Terrible
 Burnt
+Hard
+Bad

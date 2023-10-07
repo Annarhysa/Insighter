@@ -19,3 +19,6 @@ Zen
 Artistic
 Ambient
 Awesome
+ambience
+decore
+Directly

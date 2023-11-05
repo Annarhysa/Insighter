@@ -19,3 +19,7 @@
 'The customer is concerned that there were fewer nuts in their dish than usual.',
 'Customer is concerned about the small portion sizes at the restaurant.',
 'Customer is dissatisfied with the hard bread and insufficient heat of the food at the restaurant.'
+'Customer expected fresh berries but received berry sauce instead.',
+'Customer wanted more fruits to be included in their meal at the restaurant.',
+'Customer is satisfied with the quality of the juice but finds the prices to be a bit expensive.',
+'The customer is upset because they received the wrong item from the restaurant.'

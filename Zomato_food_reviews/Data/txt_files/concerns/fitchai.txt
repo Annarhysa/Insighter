@@ -1,0 +1,8 @@
+'The customer is concerned about the burnt taste of the tea at the restaurant.',
+'The customer is unhappy with the tea at the restaurant, describing it as the worst and not tasty.',
+'The customer tried the Golden milkshake and tulasi milkshake and wants to share their experience.',
+"The customer's concern about the restaurant is that there is nothing worth mentioning or praising.",
+'The customer is concerned about receiving a damaged bottle at the restaurant.',
+'The customer is unhappy because the packaging of the food they received did not match the image shown.',
+'The customer is concerned about the lack of flavor in the food at the restaurant.',
+"The customer had a terrible experience with the restaurant's service and advises against ordering from there."

@@ -1,0 +1,2 @@
+"The customer is concerned about the restaurant's online orders, mentioning missing yogurt in the fruit bowl and bad pasta.",
+'Customer is dissatisfied with the restaurant due to unclear food order, poor food quality, bad service, and slow delivery.'

@@ -1,0 +1,4 @@
+'The customer is satisfied with the quick service, good taste, and affordable pricing of the apple juice at the restaurant.',
+"The customer is satisfied with the restaurant's cleanliness and hygiene.",
+'Customer is concerned about the location of the restaurant, Gate 3 Gachibowli, Dlf Road.',
+'The customer is concerned about the lack of fresh juice options without added sugar at the restaurant.'
